@@ -1,0 +1,1 @@
+let BRAND_NAME = "I am a hero";
